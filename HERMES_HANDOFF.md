@@ -1,6 +1,6 @@
 # AGENTROPOLIS MODELRAIL - HERMES / VERITY HANDOFF
 
-Status: **prototype starter, local tests only, no installation, deployment or GitHub push**.
+Status: **prototype starter, local tests only, no installation or deployment; source import proposed in draft PR #1**.
 
 ## Ownership
 - Infra substrate: MODELRAIL adapters, local model selection and transport.
