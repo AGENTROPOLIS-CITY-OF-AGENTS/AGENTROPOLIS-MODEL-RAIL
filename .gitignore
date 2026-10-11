@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*.json
+*credential*.json
+receipts.jsonl
+modelrail_agy_*/
